@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/sriram/Desktop/Flutter/expense_tracker/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/sriram/Desktop/Flutter/ExpenseTrackerApp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
